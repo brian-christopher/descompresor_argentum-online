@@ -5,4 +5,4 @@ el programa usa una dll escrita en c(32 bits).
 
 
 # intrucciones
-ejecutar el programa seguir del nombre el archivo y el directorio donde se van a extraer los graficos.
+ejecutar el programa seguido del nombre del archivo y el directorio donde se van a extraer los graficos.
